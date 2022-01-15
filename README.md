@@ -10,7 +10,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
   </a>
 </p>
-<a href="https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/BEL8HA90i86KhKcX0gPpFS"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
  
 </div>
 
@@ -49,8 +49,8 @@ after start it you need to scan the qr
 ### Contact me
 
 - [TELEGRAM](https://t.me/justpiple)
-- [WHATSAPP](http://wa.me/62813309603730)
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt)
+- [WHATSAPP](http://wa.me/62895395165760)
+- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/BEL8HA90i86KhKcX0gPpFS)
 
 
 ## 🙏 Special Thanks to
