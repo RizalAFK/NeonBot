@@ -1,6 +1,6 @@
 {	
 	"prefix": "multi", 
-	"defaultSessionName": "bot", 
+	"defaultSessionName": "Neon", 
 	"zeksKey": "apikey",
 	"autoRead": true,
 	"self": false, 
