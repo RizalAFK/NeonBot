@@ -52,6 +52,12 @@ after start it you need to scan the qr
 - [WHATSAPP](http://wa.me/62895395165760)
 - [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/BEL8HA90i86KhKcX0gPpFS)
 
+---------
+<a href="https://melcanz.com/"><img src="https://telegra.ph/file/18b6f5487ffdcc5aa93a5.jpg" width="100" height="100"></a> | [![Melcanz](https://github.com/melcanz.png?size=100)](https://github.com/melcanz) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) 
+----|----|----
+[Melcanz API](https://melcanz.com/) | [Melcanz](https://github.com/melcanz) | [Ariffb](https://github.com/ariffb25) 
+Powered by Melcanz API | Owner of Melcanz API | punya amel
+
 
 ## 🙏 Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/@adiwajshing/Baileys%20-%23121011.svg?style=flat-square&logo=npm&color=white"/></a>
